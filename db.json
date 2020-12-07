@@ -1,0 +1,14 @@
+{
+    "items": [
+        {"itemName":"Duct Tape","itemPrice":1000,"additionalInfo":"Used for crafting"},
+        {"itemName":"AK-74U","itemPrice":30000,"additionalInfo":"Weapon"},
+        {"itemName":"Scav Backpack","itemPrice":15000,"additionalInfo":""},
+        {"itemName":"Milk","itemPrice":15000,"additionalInfo":"Food"},
+        {"itemName":"First aid kit","itemPrice":5000,"additionalInfo":""},
+        {"itemName":"Riot Helmet","itemPrice":10000,"additionalInfo":"Head Armor"},
+        {"itemName":"M4A1 Assault Rifle","itemPrice":50000,"additionalInfo":"Weapon"},
+        {"itemName":"Hand Grenade","itemPrice":12000,"additionalInfo":"Throwable Explosive"},
+        {"itemName":"5.56 Ammo Box","itemPrice":5000,"additionalInfo":""},
+        {"itemName":"9mm Ammo Box","itemPrice":2000,"additionalInfo":""}
+    ]
+}
